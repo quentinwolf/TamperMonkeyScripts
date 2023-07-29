@@ -3,6 +3,8 @@
 // @namespace   redditmoderatortoolboxcheckall
 // @include     *://*.reddit.com/*
 // @version     1.1
+// @downloadURL  https://github.com/quentinwolf/TamperMonkeyScripts/raw/main/Reddit_Toolbox_Check_All.user.js
+// @updateURL    https://github.com/quentinwolf/TamperMonkeyScripts/raw/main/Reddit_Toolbox_Check_All.user.js
 // @grant       none
 // ==/UserScript==
 
