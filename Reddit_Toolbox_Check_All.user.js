@@ -2,7 +2,10 @@
 // @name        Reddit Moderator Toolbox Check All
 // @namespace   redditmoderatortoolboxcheckall
 // @include     *://*.reddit.com/*
-// @version     1.1
+// @version     1.11
+// @description  An enhancement for Toolbox to provide a "Check All"
+// @description  As well as extra custom buttons that can be clicked to pre-fill the Ban Note, Ban Message, and optionally automatically trigger the Check All function.
+// @author       quentinwolf
 // @downloadURL  https://github.com/quentinwolf/TamperMonkeyScripts/raw/main/Reddit_Toolbox_Check_All.user.js
 // @updateURL    https://github.com/quentinwolf/TamperMonkeyScripts/raw/main/Reddit_Toolbox_Check_All.user.js
 // @grant       none
