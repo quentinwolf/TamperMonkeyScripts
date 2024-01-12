@@ -2,7 +2,7 @@
 // @name        Reddit Moderator Toolbox Check All
 // @namespace   redditmoderatortoolboxcheckall
 // @include     *://*.reddit.com/*
-// @version     1.11
+// @version     1.12
 // @description  An enhancement for Toolbox to provide a "Check All"
 // @description  As well as extra custom buttons that can be clicked to pre-fill the Ban Note, Ban Message, and optionally automatically trigger the Check All function.
 // @author       quentinwolf
@@ -26,6 +26,12 @@
             name: "Spam",
             banNote: "Spambot",
             banMessage: "Spam isn't welcome here or anywhere.",
+            checkAll: false
+        },
+        {
+            name: "Ban Evasion",
+            banNote: "Ban Evasion",
+            banMessage: "You were previously banned on your previous account, this is now considered **BAN EVASION** for creating a new account in attempts to get around the ban we previously issued, and can result in your account being suspended from Reddit as a whole.  As such you are now being reported to the Admins for violating your previous ban and prior warning.  You are no longer welcome under our community from this or any future accounts.",
             checkAll: false
         }
     ];
